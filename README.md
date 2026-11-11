@@ -37,14 +37,6 @@ I'm passionate about data, technology, innovation and solving business problems 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![API Management](https://img.shields.io/badge/API_Management-6C3483?style=for-the-badge)
 
-### Areas of Interest
-
-- Data Analytics / Engineering  - Business Intelligence
-- API Management - Integration
-- Cloud Computing - AWS Architecture
-- Project Management - PMO
-- Artificial Intelligence - Machine Learning
-
 ---
 
 *Turning data into insights and technology into solutions.*

@@ -2,13 +2,11 @@
 
 ### Data & BI | PMO | API Management & Integration
 
-I'm a Data Analyst currently working at **HORIBA**, where I contribute to data-driven projects, data analysis, project coordination, and technical documentation.
-
 I'm passionate about data, technology, and solving business problems through data-driven solutions. I enjoy working across the data lifecycle, from data collection and transformation to visualization and decision-making.
 
 ### About me
 
-- 🔭 Currently working at **HORIBA** as a Data Analyst – PMO.
+- 🔭 Currently working at **HORIBA** as a Data Analyst – PMO since november 2025
 - 🌱 Learning more about **AWS Cloud, Data Engineering, API Management, and AI**.
 - 👯 Looking to collaborate on Data Analytics, Business Intelligence, and Data Engineering projects.
 - 💬 Ask me about Python, SQL, Power BI, ETL, Data Warehousing, and Data Visualization.

@@ -30,7 +30,6 @@ I'm passionate about data, technology, innovation and solving business problems 
 ![ETL](https://img.shields.io/badge/ETL-4B5563?style=for-the-badge)
 ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-2563EB?style=for-the-badge)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Microsoft Project](https://img.shields.io/badge/MS_Project-31752F?style=for-the-badge&logo=microsoftproject&logoColor=white)

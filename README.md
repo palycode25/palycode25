@@ -36,7 +36,6 @@ I'm passionate about data, technology, innovation and solving business problems 
 ![PMO](https://img.shields.io/badge/PMO-64748B?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![API Management](https://img.shields.io/badge/API_Management-6C3483?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge)
 
 ### Areas of Interest
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Fatoumata Diallo 👋
 
-### DData & BI | PMO | API Management & Integration
+### Data & BI | PMO | API Management & Integration
 
 I'm a Data Analyst currently working at **HORIBA**, where I contribute to data-driven projects, data analysis, project coordination, and technical documentation.
 
@@ -19,21 +19,8 @@ I'm passionate about data, technology, and solving business problems through dat
 ### Technical Skills
 
 **Programming & Data Analysis**
-- Python, SQL, R, Pandas, NumPy
+- Python, SQL, R, - Power BI, Tableau, Excel, ETL, Talend, Data Warehousing, Snowflake, Jira, Confluence, Microsoft Project
 
-**Business Intelligence & Visualization**
-- Power BI, Tableau, Excel, Data Visualization
-
-**Data Engineering & Integration**
-- ETL, Talend, Data Warehousing, Snowflake
-- Data Cleaning, Data Transformation
-
-**Cloud & Workflow Orchestration**
-- AWS, Airflow
-
-**Project Management & Collaboration**
-- Jira, Confluence, Microsoft Project
-- PMO, Technical Documentation, Project Coordination
 
 ### Areas of Interest
 
